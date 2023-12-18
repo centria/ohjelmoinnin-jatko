@@ -27,11 +27,12 @@ const Layout = ({ children, tableOfContents, location }) => {
         )}
         <Footer>
           <p>
-            © {new Date().getFullYear()}, Built with
-            <a href='https://web.centria.fi/'> Centria</a>
+            © 2020 - {new Date().getFullYear()},
+            <a href='https://net.centria.fi/'> Centria-ammattikorkeakoulu</a>
           </p>
           <p>
-            More information about <Link to='/license'>License</Link>
+            Lue lisää{' '}
+            <Link to='/lisenssi'>Lisenssistä</Link>
           </p>
         </Footer>
       </SiteWrapper>
