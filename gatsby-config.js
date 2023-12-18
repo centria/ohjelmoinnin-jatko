@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: 'Template',
-    name: 'Template',
+    title: 'Ohjelmoinnin jatkokurssi',
+    name: 'Olio-ohjelmointi ja suunnittelu',
     description:
-      'This is my description that will be used in the meta tags and important for search results',
+      'Olio-ohjelmointi C Sharpilla',
   },
   plugins: [
     // access content folder
@@ -58,7 +58,7 @@ module.exports = {
         background_color: '#f7f0eb',
         theme_color: '#a2466c',
         display: 'standalone',
-        icon: 'src/images/Centria-icon.png',
+        icon: 'src/images/C.jpg',
       },
     },
     'gatsby-plugin-sharp',
