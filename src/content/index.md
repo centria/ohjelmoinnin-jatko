@@ -33,7 +33,7 @@ Voit rekisteröityä opintojaksolle [TÄÄLTÄ](https://ella.eduplan.fi/centria)
 Alla oleva lista ei kata kaikkea, mutta on enemmänkin ohjeellinen, mitä odottaa jokaisessa osassa.
 
 
-| Part     |      Goal   |  
+| Part     |      Tavoite   |  
 |:--------:|------------|
 | 7| Osaat luoda projektin kunnollisella rakenteella ja osaat ajaa testit oikeassa kansiossa.|
 | 8| Osaat käyttää **sanakirjoja eli kokoelmia** tiedon tallentamiseen, ymmärrät **tiiviste**-funktioita ja pystyt käyttämään näitä ongelmanratkaisuun olio-ohjelmoinnissa. |
