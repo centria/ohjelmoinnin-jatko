@@ -1,9 +1,9 @@
 ---
-title: "Part 13 - Graphical User Interfaces"
+title: "Osa 13 - Graafiset käyttöliittymät"
 nav_order: 8
 hidden: false
 ---
 
-## Part 13
+## Osa 13
 
-Part 13 contains basics of graphical user interfaces, but does not contain exercises.
+Osa kolmetoista käsittelee graafisia käyttöliittymiä. Tämä osa ei sisällä tehtäviä.

@@ -1,9 +1,9 @@
 ---
-title: "Part 12 - Using and Namespaces"
+title: "Osa 12 - Using ja Namespace"
 nav_order: 7
 hidden: false
 ---
 
-## Part 12
+## Osa 12
 
-The 12th and last official part of the course material focuses on namespaces and keyword using. 
+Kahdestoista ja viimeinen virallinen osa kurssimateriaalia käsittelee nimiavaruudet ja avainsanan using käyttöä.

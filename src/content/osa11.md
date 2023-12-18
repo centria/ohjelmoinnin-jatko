@@ -1,9 +1,9 @@
 ---
-title: "Part 11 - Random, files and exceptions"
+title: "Osa 11 - Satunnaisuus, tiedostot ja poikkeukset"
 nav_order: 6
 hidden: false
 ---
 
-## Part 11
+## Osa 11
 
-The 11th part of the course material focuses on exception handling, reading and writing files and randomization.
+Tämä osa käsittelee satunnaisuutta, tiedostojen lukemista ja kirjoittamista sekä poikkeuksia.

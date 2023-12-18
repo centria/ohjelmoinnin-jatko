@@ -1,9 +1,9 @@
 ---
-title: "Part 10 - Sorting and other tools"
+title: "Osa 10 - Järjestäminen ja muita työkaluja"
 nav_order: 5
 hidden: false
 ---
 
-## Part 10
+## Osa 10
 
-The 10th part of the course material focuses on IComparable, Enum and Regular Expressions.
+Kymmenes osa keskittyy järjestämiseen ja järjestämiseen liittyviin työkaluihin. Käsiteltäviä aiheita ovat mm. IComparable, Enum ja säännölliset lausekkeet.

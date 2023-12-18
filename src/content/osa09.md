@@ -1,9 +1,9 @@
 ---
-title: "Part 9 - Inheritance and Interfaces"
+title: "Osa 9 - Perintä ja rajapinnat"
 nav_order: 4
 hidden: false
 ---
 
-## Part 9
+## Osa 9
 
-The 9th part of the course material focuses on two essential concepts of object oriented programming, namely *inheritance* and *interfaces*. 
+Materiaalin yhdeksäs osa käsittelee kahden olennaisen olio-ohjelmoinnin käsitteen, eli *perinnän* ja *rajapintojen* käyttöä.
