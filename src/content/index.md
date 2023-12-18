@@ -13,7 +13,7 @@ Englanninkielinen materiaali on valmis.
 <a href="https://centria.github.io/basic-csharp/">English material behind this link!</a>
  </Note>
 
-Tämä on kurssin toinen osa. Ensimmäinen osa, Ohjelmoinnin perusteet C#, löytyy täältä: [https://centria.github.io/ohjelmoinnin-perusteet/](https://centria.github.io/ohjelmoinnin-perusteet/).
+Tämä on kurssin toinen osa. Ensimmäinen osa, Ohjelmoinnin perusteet, löytyy täältä: [https://centria.github.io/ohjelmoinnin-perusteet/](https://centria.github.io/ohjelmoinnin-perusteet/).
 
 
 
