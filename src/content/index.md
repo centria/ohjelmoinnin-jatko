@@ -1,5 +1,5 @@
 ---
-title: 'Attending the course'
+title: 'Kurssille osallistuminen'
 nav_order: 1
 hidden: false
 ---
