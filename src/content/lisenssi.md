@@ -27,4 +27,4 @@ This page template was originally created by:
 
 ## Virheitä materiaalissa?
 
-Löysitkö virheen tiedoissa? Tai kirjoitusvirheen? Lähetä meille parannusehdotus [GitHubissa](https://github.com/centria/ohjelmoinnin-perusteet/tree/master/src/content) ja auta meitä parantamaan materiaalia!
+Löysitkö virheen tiedoissa? Tai kirjoitusvirheen? Lähetä meille parannusehdotus [GitHubissa](https://github.com/centria/ohjelmoinnin-jatko/tree/master/src/content) ja auta meitä parantamaan materiaalia!

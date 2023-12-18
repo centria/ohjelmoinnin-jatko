@@ -13,52 +13,55 @@ Englanninkielinen materiaali on valmis.
 <a href="https://centria.github.io/basic-csharp/">English material behind this link!</a>
  </Note>
 
-Tämä on kurssin toinen osa. Ensimmäinen osa, Ohjelmoinnin perusteet C#, löytyy täältä: [https://centria.github.io/ohjelmoinnin-perusteet/](https://centria.github.io/ohjelmoinnin-perusteet/).
+Tämä on kurssin toinen osa. Ensimmäinen osa, Ohjelmoinnin perusteet C#, löytyy täältä: [https://centria.github.io/ohjelmoinnin-jatko/](https://centria.github.io/ohjelmoinnin-jatko/).
 
 
 
-## If you just want to learn
+## Jos haluat vain oppia
 
-To attend the course, you do not have to be a student in Centria University of Applied science. All the material and exercises are available online. If you want to get ECTS credits for the course, you have to register to Centria Open University.
-
-
-## Registering to Open University course
-
-You can register to the course from [HERE](https://koulutus.centria.fi/koulutukset/software-development/).
-
-<Note>Centria students don't have to enroll to Open University, but enroll from Peppi!</Note>
+Osallistuaksesi opintojaksolle, sinun ei tarvitse olla opiskelija Centria-ammattikorkeakoulussa. Kaikki materiaali ja tehtävät ovat saatavilla netissä. Jos haluat saada opintopisteitä (ECTS credits) opintojaksosta, sinun tulee rekisteröityä Centrian avoimeen ammattikorkeakouluun.
 
 
-## Learning goals and grading
+## Rekisteröityminen avoimeen ammattikorkeakouluun
+
+Voit rekisteröityä opintojaksolle [TÄÄLTÄ](https://ella.eduplan.fi/centria).
+
+<Note>Centrian opiskelijat eivät rekisteröidy avoimen kautta, vaan Pepissä!</Note>
 
 
-The list below does not include everything, but exists to give a guideline for students, what to expect each week. This list may extend as the course goes on.
+## Oppimistavoitteet ja arvostelu
+
+Alla oleva lista ei kata kaikkea, mutta on enemmänkin ohjeellinen, mitä odottaa jokaisessa osassa.
 
 
 | Part     |      Goal   |  
 |:--------:|------------|
-| 7| You can create a project with proper structure and are able to run tests in the correct folder. |
-| 8| You can use **dictionaries** as data storage, understand **hash** and solve problems with them in object oriented programming. |
-| 9| You understand inheritance and interfaces. You will learn to create classes that inherit another classes, and also classes that implement one or more interfaces. |
-| 10| You understand how objects are compared and can use this information. You understand the basics of enumeration and regular expressions. |
-| 11| You can create random strings and numbers. You are able to handle exceptions, read and write (to and from) files, and use these in problem solving. |
-| 12| You understand the basics of the keywords **using** and **namespace**. |
-| 13| Extra: You can create small graphical interfaces for your programs. |
+| 7| Osaat luoda projektin kunnollisella rakenteella ja osaat ajaa testit oikeassa kansiossa.|
+| 8| Osaat käyttää **sanakirjoja eli kokoelmia** tiedon tallentamiseen, ymmärrät **tiiviste**-funktioita ja pystyt käyttämään näitä ongelmanratkaisuun olio-ohjelmoinnissa. |
+| 9| Ymmärrät perintää ja rajapintoja. Opit luomaan luokkia jotka perivät toisia luokkia, sekä luokkia jotka toteuttavat yhtä tai useampaa rajapintaa.|
+| 10| Ymmärrät kuinka olioita vertaillaan ja osaat käyttää tätä tietoa. Ymmärrät numeroitumisen ja säännöllisten lausekkeiden perusteet. |
+| 11| Osaat luoda satunnaisia merkkijonoja ja numeroita. Osaat käsitellä poikkeuksia, lukea ja kirjoittaa tiedostoon ja tiedostoista, ja käyttää näitä ongelmanratkaisussa.|
+| 12| Ymmärrät avainsanojen **using** ja **namespace** perusteet. |
+| 13| Extra: osaat luoda pieniä graafisia käyttöliittymiä ohjelmiisi.|
 
 
-The course is graded on a scale of 0-5. The grade comprises of the amount of exercises done.
+Kurssi arvostellaan asteikolla 0-5. Arvosana määräytyy saavutettujen tehtäväpisteiden määrän perusteella.
 
-| Percentage done | Grade |
+| Prosenttia pisteistä | Arvosana |
 | :-------------- | :---: |
-| 90 % or more    |   5   |
+| 90 % tai enemmän    |   5   |
 | 80 % - 89,99 %  |   4   |
 | 70 % - 79,99 %  |   3   |
 | 60 % - 69,99 %  |   2   |
 | 50 % - 59,99 %  |   1   |
-| Less than 50 %  |   0   |
+| Alle 50 %  |   0   |
 
-At the end of the course, there is also an exam with **pass / fail** grading. This does not affect the grade but is to ensure that you have done the exercises yourself. The exam is reserved for students of Centria University of Applied Sciences and Centria Open University, and you can find the registeration information from above. The course material and the exercises are available still for anyone who wants.
+Lisäksi kurssin lopussa on koe, joka arvostellaan **hyväksytty / hylätty**. Tämä ei vaikuta arvosanaan, vaan tarkoituksena on varmistaa että olet tehnyt tehtävät itse. Koe on varattu Centria-ammattikorkeakoulun ja Centrian avoimen ammattikorkeakoulun opiskelijoille, ja rekisteröitymisohjeet löydät ylempää. Kurssin materiaali ja tehtävät ovat silti kaikkien saatavilla.
 
-## Errors in the material?
+## Mitä seuraavaksi
 
-Did you find an error? A typo perhaps? Please make a pull request at [GitHub](https://github.com/centria/advanced-csharp/tree/master/src/content) and help us make the material better!
+Lue <Link style={{color: "#ef5b5b"}} to='/tehtavat'>Tehtävä- ja koeohjeet.</Link> 
+
+## Virheitä materiaalissa?
+
+Löysitkö virheen tiedoissa? Tai kirjoitusvirheen? Lähetä meille parannusehdotus [GitHubissa](https://github.com/centria/ohjelmoinnin-jatko/tree/master/src/content) ja auta meitä parantamaan materiaalia!

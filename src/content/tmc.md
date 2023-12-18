@@ -74,28 +74,28 @@ We have to run our exercises manually, if we want to do so.
 
 In Visual Studio Code, select `Terminal` and then `New Terminal`
 
-![Terminal menu](https://github.com/centria/advanced-csharp/raw/master/src/images/new-terminal.png)
+![Terminal menu](https://github.com/centria/ohjelmoinnin-jatko/raw/master/src/images/new-terminal.png)
 
 A selection of options will pop up. The selections contain all the open exercises. In the example, I am doing part 6, so I have those open.
 
-![Folder selection](https://github.com/centria/advanced-csharp/raw/master/src/images/select-folder.png)
+![Folder selection](https://github.com/centria/ohjelmoinnin-jatko/raw/master/src/images/select-folder.png)
 
 * Select the exercise you are doing
 * A new terminal opens at the bottom of Visual Studio Code.
 
 * write the command `cd src/Exercise000` , but instead of the zeros, use the actual exercise number. Press `Enter`.
 
-![Selecting source folder](https://github.com/centria/advanced-csharp/raw/master/src/images/exercise003.png)
+![Selecting source folder](https://github.com/centria/ohjelmoinnin-jatko/raw/master/src/images/exercise003.png)
 
 * In the example, I am doing exercise 003 of the part, so my command is `cd src/Exercise003`
 * Now you are in the actual exercise folder, and can run the program.
 * Run the program with the command `dotnet run`. 
 
-![Dotnet run](https://github.com/centria/advanced-csharp/raw/master/src/images/dotnet-run.png)
+![Dotnet run](https://github.com/centria/ohjelmoinnin-jatko/raw/master/src/images/dotnet-run.png)
 
 * If your program works as it should, you can see the output in the console. The next example is from Part 6, exercise 003:
 
-![Dotnet run](https://github.com/centria/advanced-csharp/raw/master/src/images/dotnet-print.png)
+![Dotnet run](https://github.com/centria/ohjelmoinnin-jatko/raw/master/src/images/dotnet-print.png)
 
 <Note>The dollar sign in the pictures is NOT part of the command! </Note>
 
@@ -119,4 +119,4 @@ Follow the instructions here: [https://www.mooc.fi/en/installation/vscode/#check
 
 ## Errors in the material?
 
-Did you find an error? A typo perhaps? Please make a pull request at [GitHub](https://github.com/centria/advanced-csharp/tree/master/src/content) and help us make the material better!
+Did you find an error? A typo perhaps? Please make a pull request at [GitHub](https://github.com/centria/ohjelmoinnin-jatko/tree/master/src/content) and help us make the material better!
