@@ -11,7 +11,7 @@ const Logo = () => {
 			alt='Centria banner'
 			quality={95}
 			formats={['AUTO', 'WEBP', 'AVIF']}
-		/> 
+		/>
 	)
 }
 
