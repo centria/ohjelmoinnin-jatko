@@ -4,15 +4,14 @@ nav_order: 1
 hidden: false
 ---
 
-Tervetuloa Centrian *Olio-ohjelmointi ja suunnittelu* -kurssille!
+Tervetuloa Centrian *Olio-ohjelmointi ja suunnittelu* -kurssille, avoimen kurssille *Advanced Programming with C#*!
+
 
 <Note>
-Tämän sivuston käännös on vielä keskeneräinen!
-Englanninkielinen materiaali on valmis.
-<a href="https://centria.github.io/advanced-csharp/">English material behind this link!</a>
+<a href="https://centria.github.io/advanced-csharp/"> English material behind this link!</a>
  </Note>
 
-Tämä on kurssin toinen osa. Ensimmäinen osa, Ohjelmoinnin perusteet, löytyy täältä: [https://centria.github.io/ohjelmoinnin-perusteet/](https://centria.github.io/ohjelmoinnin-perusteet/).
+Tämä on kurssin toinen osa. Ensimmäinen osa, *Ohjelmoinnin perusteet / Basics of Programming with C#*, löytyy täältä: [https://centria.github.io/ohjelmoinnin-perusteet/](https://centria.github.io/ohjelmoinnin-perusteet/).
 
 
 
