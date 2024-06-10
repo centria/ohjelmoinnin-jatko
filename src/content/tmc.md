@@ -11,7 +11,7 @@ Voidaksesi tehdä tehtävät, sinun tulee asentaa muutama ohjelmisto koneellesi,
 ## .NET
 Sinulla tarvitsee olla `.NET` (kutsutaan myös nimellä `Dotnet`) asennettuna. Voit asentaa sen täältä: [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download). 
 
-<Note>Käytössä on dotnet 6.0, mutta myös dotnet 7 toimii. Vanhemmat versiot eivät toimi!</Note>
+<Note>Käytössä on dotnet 6.0, mutta sen tuki loppuu. Syksyllä käytössä 8.0!</Note>
 
 ## Visual Studio Code (VSCode)
 
