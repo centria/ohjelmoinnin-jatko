@@ -4,9 +4,6 @@ nav_order: 1
 hidden: false
 ---
 
-<Note><h2>Dotnet 6.0 tuki päättyy.
-Syksyllä käytössä on dotnet8.0!</h2></Note>
-
 Tervetuloa Centrian *Olio-ohjelmointi ja suunnittelu* -kurssille, avoimen kurssille *Advanced Programming with C#*!
 
 
