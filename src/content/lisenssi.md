@@ -6,7 +6,7 @@ hidden: true
 
 Kurssin rakenne ja materiaali perustuvat [**Helsingin yliopiston**](https://www.helsinki.fi/en/) kurssiin [**Ohjelmoinnin perusteet Javalla**](https://ohjelmointi-20.mooc.fi), jonka on luonut [**Agile Education Research Group**](https://www.helsinki.fi/en/researchgroups/data-driven-education). 
 
-Tämän materiaalin on muokannut kyseisestä materiaalista  [**Heikki Ahonen**](https://github.com/heikkihei); tämän lisenssi on [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed). Lisätietoa alkuperäisestä materiaalista ja sen lisenssistä [**täällä**](https://ohjelmointi-20.mooc.fi/credits/).
+Tämän materiaalin on muokannut kyseisestä materiaalista  [**Heikki Ahonen**](https://github.com/heikkihei) 2020-2024; 2025 alkaen Tero Niemi; tämän lisenssi on [**CC BY-NC-SA 4.0**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed). Lisätietoa alkuperäisestä materiaalista ja sen lisenssistä [**täällä**](https://ohjelmointi-20.mooc.fi/credits/).
 
 ### Kiitokset
 
